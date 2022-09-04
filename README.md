@@ -3,5 +3,4 @@
 ### 👋 你好，世界
 
 - :orange_book: Focusing on Java & Golang
-- :ram: I'm a computer science and technology student
 - :meat_on_bone: Meat lover
